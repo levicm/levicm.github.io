@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prof. Levi Mota</title>
+    <link>http://prof.levimota.com/</link>
+    <description>Recent content on Prof. Levi Mota</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language><atom:link href="http://prof.levimota.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre</title>
+      <link>http://prof.levimota.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://prof.levimota.com/about/</guid>
+      <description>Levi Mota é mestre em Computação pela UFS - Universidade Federal de Sergipe, especialista em Sistemas de Informação para Web pela Universidade Tiradentes (2003) e graduado em Processamento de Dados pela Universidade Tiradentes (1999).
+Atual Atualmente é professor efetivo do Instituto Federal de Sergipe do curso de graduação em Ciência da Computação e do curso Técnico em Manutenção e Suporte em Informática, e também é Técnico Judiciário na área de apoio Tecnologia da Informação do TRT20 - Tribunal Regional do Trabalho da 20ª Região, em Sergipe, atuando como Subsecretário de Tecnologia da Informação e Comunicação.</description>
+    </item>
+    
+  </channel>
+</rss>
